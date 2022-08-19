@@ -12,4 +12,4 @@ _G.netlessmult = 1
 _G.safenetless = false
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/plusgiant5/Libraries/main/Plusgiant5ReanimationV2.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/plusgiant5/Libraries/main/Plusgiant5ReanimationV2/gun.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trashinated1/Libraries/main/Plusgiant5ReanimationV2/gun.lua"))()
