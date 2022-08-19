@@ -26,7 +26,7 @@ gun.CanCollide = false
 gun.Massless = true
 local mesh = Instance.new("SpecialMesh")
 mesh.MeshType = Enum.MeshType.FileMesh
-mesh.MeshId = "rbxassetid://7667204705"
+mesh.MeshId = "rbxassetid://7604587498"
 mesh.TextureId = "http://www.roblox.com/asset/?id=7667119641"
 mesh.Parent = gun
 gun.Parent = char
